@@ -1,3 +1,5 @@
+-- 1 List the employee number, last name, first name, sex, and salary of each employee.
+
 SELECT e.emp_no as employee_number,
 	   e.last_name,
 	   e.first_name,
